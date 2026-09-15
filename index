@@ -630,7 +630,7 @@
                         <form onsubmit="saveApiUrlConfig(event)">
                             <div class="mb-3">
                                 <label class="form-label small font-weight-bold">URL Google Apps Script Web App</label>
-                                <input type="url" id="apiUrlInput" class="form-control form-control-sm" placeholder="https://script.google.com/macros/s/.../exec" required>
+                                <input type="url" id="apiUrlInput" class="form-control form-control-sm" placeholder="https://script.google.com/macros/s/AKfycbyC9IcJzn8ob3PqEltUHW-nvvFbQapiIxYVzfIzdLzXBH6EISZAHDSFe1loHrgPpuJrJg/exec" required>
                                 <div class="form-text small">Masukkan URL Deployment Web App Apps Script Anda di sini.</div>
                             </div>
                             <button type="submit" class="btn btn-success btn-sm font-weight-bold"><i class="fa-solid fa-floppy-disk me-1"></i> Simpan Konfigurasi</button>
